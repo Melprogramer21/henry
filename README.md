@@ -1,3 +1,0 @@
-# henry
-ejercicio
-hola  henry
